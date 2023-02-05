@@ -19,6 +19,10 @@ public class Alumno {
     }
 
     // Constructores
+
+    public Alumno() {
+    }
+
     public Alumno(int ID, String nombre, String apellido) {
         this.nombre = nombre;
         this.ID= ID;
