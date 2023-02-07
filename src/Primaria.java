@@ -27,4 +27,5 @@ public class Primaria extends Alumno{
         this.cantidad_Deportes = cantidad_Deportes;
     }
 
+
 }
