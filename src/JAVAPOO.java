@@ -18,5 +18,5 @@ public class JAVAPOO {
     }
     Alumno alumnoPrimaria1= new Alumno();
     Alumno alumnoPrimaria2= new Alumno();
-
+    Alumno alumnoPrimaria3= new Alumno();
 }
