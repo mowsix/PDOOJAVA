@@ -16,4 +16,6 @@ public class JAVAPOO {
                 " Y su ID es: "+ alumno2.getID());
 
     }
+    Alumno alumnoPrimaria1= new Alumno();
+
 }
